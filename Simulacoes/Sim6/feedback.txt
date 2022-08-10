@@ -1,0 +1,1 @@
+Apenas os gráficos dos erros são apresentados na maioria dos itens. Os gráficos dos estados e suas estimativas poderiam ter sido apresentados.

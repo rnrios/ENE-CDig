@@ -1,0 +1,1 @@
+Na questão 3, item (d), faltou comparar a resposta deadbeat com a de controladores discretizados. No item (e) faltou analisar o sinal de controle para afirmar se haverá alguma oscilação entre os instantes de amostragem.

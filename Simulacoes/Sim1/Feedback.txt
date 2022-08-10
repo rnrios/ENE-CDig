@@ -1,0 +1,1 @@
+Na questão 3 faltou explicar melhor o raciocínio envolvido no cálculo da frequência de oscilação (-0,5 ponto). Na questão 4 há algum problema na configuração da simulação. Pelos gráficos, parece que T=0,2 s e não T=1 s. Além disso, resta o cálculo da frequência de oscilação a partir do gráfico (-2 pontos).
